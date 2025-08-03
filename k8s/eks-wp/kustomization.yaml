@@ -4,5 +4,3 @@ resources:
   - wp_pv.yaml
   - wp_pvc.yaml
   - wordpress-deployment.yaml  
-  - hpa.yaml
-  - alb.yaml

@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is from main branch
+=======
+This is from feature branch
+>>>>>>> 860ca8a (Change in feature branch)
 !
